@@ -1,10 +1,10 @@
 {
   "name": "moodlemobile",
-  "version": "3.6.1",
-  "description": "The official app for Moodle.",
+  "version": "1.0.0",
+  "description": "The Andrew Biggs Academy official app.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Azurite Holdings",
+    "email": "hello@azurite.co.za"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
